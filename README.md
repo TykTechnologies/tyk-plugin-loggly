@@ -2,7 +2,7 @@
 
 ## Overview
 
-This plugin sends log data to a [Loggly](https://www.loggly.com/) HTTP endpoint.
+This plugin sends log data to a [Loggly](https://www.loggly.com/) HTTPS endpoint.
 
 ## Requirements
 
